@@ -1,11 +1,11 @@
 # Agile Methodology
 
-1. [What Is It?](#1-What-Is-It?)
-2. [Why Use It?](#2-Why-Use-It?)
-3. [Who Use It?](#3-Who-Use-It?)
-4. [Where to Implement?](#4-Where-to-Implement?)
-5. [When to Use It?](#5-When-to-Use-It?)
-6. [How to Use It?](#6-How-to-Use-It?)
+1. [What Is It?](#1-what-is-it?)
+2. [Why Use It?](#2-why-use-it?)
+3. [Who Use It?](#3-who-use-it?)
+4. [Where to Implement?](#4-where-to-implement?)
+5. [When to Use It?](#5-when-to-use-it?)
+6. [How to Use It?](#6-how-to-use-it?)
 
 #
 
